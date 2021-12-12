@@ -22,13 +22,9 @@ Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
 ## 2.2. Auswertung
  - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
 
-# 3. 27.09.2021
+# 3. 30.10.2021
 | Ziel | Auswertung   |
-|----------------------------------------------------------------------------------|---------------------------------------------------|
-| Drei Passwortverwaltungsprogramme miteinander verglichen und dokumentiert.       | Keepass, Lastpass, Bitwarden, 5 Kriterien => Done |
-| Ein Passwortverwaltungsprogramm für mich selbst ausgewählt.  | Keepass => Done  |
-| Passwortverwaltungsprogramm eingerichtet und auf dem eigenen Gerät installiert.  | Done  |
-| usw….                | | 
+
 
 
 # 4. 07.12.2021
