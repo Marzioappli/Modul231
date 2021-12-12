@@ -11,7 +11,7 @@
 - [6. Quellen](#6-quellen)
 
 # 1. 16.11.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
+Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgen
 
 
 # 2. 23.11.2021
