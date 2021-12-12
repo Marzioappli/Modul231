@@ -1,7 +1,7 @@
 # Lernjournal  <!-- omit in toc -->
 
 # Inhaltsverzeichnis  <!-- omit in toc -->
-- [1. Bis 19.09.2021](#1-bis-19092021)
+- [1. 16.11.2021](#1-16112021)
 - [2. 20.09.2021](#2-20092021)
   - [2.1. Ziele](#21-ziele)
   - [2.2. Auswertung](#22-auswertung)
@@ -10,11 +10,11 @@
 - [5. 25.10.2021](#5-25102021)
 - [6. Quellen](#6-quellen)
 
-# 1. Bis 19.09.2021
+# 1. 16.11.2021
 Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
 
 
-# 2. 20.09.2021
+# 2. 23.11.2021
 ## 2.1. Ziele
  - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
 
@@ -22,7 +22,7 @@ Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgenommen:
 ## 2.2. Auswertung
  - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
 
-# 3. 30.10.2021
+# 3. 30.11.2021
 | Ziel | Auswertung   |
 
 
