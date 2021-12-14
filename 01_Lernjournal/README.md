@@ -10,13 +10,16 @@
 # 1. 16.11.2021
 Es war der erste Tag in dem neuen Modul 231. Am Anfang haben wir erstmals ein Überblick bekommen, um was es die nächsten Wochen gehen wird. Als wir positiv ins neue Thema eingeführt worden sind, haben wir direkt eine Übung bekommen. Und zwar mussten wir in Gruppen verschiedenene Informationen, über unterschiedliche Themen eine Präsentation halten. Dazu mussten wir das wichtigste auf einem Plakat notieren. 
 
-**Aufgabenbeschreibung** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/01_protection
+**Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/01_protection
 
 **Fazit:** Der erste Tag war sehr spannend. Ich konnte schon vieles mitnehmen und lernen. Dazu habe ich auch einen guten Eindruck über Herr Albecht bekommen.
 
 # 2. 23.11.2021
-Zum Start haben wir ein Quizz über die Infos und Hausaufgaben in der gesamten Klasse gemacht. 
+Zum Start haben wir ein Quizz über die Infos und Hausaufgaben in der gesamten Klasse gemacht. Danach hat uns Herr Albrecht einen Input zu Datenschutz und deren Gesetze gemacht. Nach einem sehr langen Input haben wir dann mit den heutigen Aufgaben angefangen. **1. Aufgabe:** Als aller erstes hat jeder ein Git-Repository erstellt. Dazu habe ich noch einige, informatielle Videos über Datenschutzt gesehen. Und am Schluss des Tages haben wir dann durch einen weiteren Input Markdown kennengelernt. 
 
+**Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/02_git
+
+**Fazit:** Ich fande den Tag recht gut. Dennoch hätte man den Input etwas kürzer machen können, da dieser schon recht lange gedauert hatte.
 # 3. 30.11.2021
 
 
