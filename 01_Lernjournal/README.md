@@ -8,7 +8,6 @@
 - [3. 30.11.2021](#3-30112021)
 - [4. 7.12.2021](#4-07122021)
 - [5. 14.12.2021](#5-14122021)
-- [6. Quellen](#6-quellen)
 
 # 1. 16.11.2021
 Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgen
@@ -37,4 +36,3 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 
 
 
-# 6.
