@@ -10,15 +10,12 @@
 - [5. 14.12.2021](#5-14122021)
 
 # 1. 16.11.2021
-Folgende Inhalte habe ich seit Beginn bis am 19.09.2021 mitgen
-
+Es war der erste Tag in dem neuen MOdul 231. Am Anfang haben wir erstmals ein Überblick bekommen, um was es die nächsten Wochen gehen wird. Als wir positiv ins neue Thema eingeführt worden sind, haben wir direkt eine Übung bekommen. Und zwar mussten wir in Gruppen verschiedenene Informationen, über unterschiedliche Themen eine Präsentation halten. Dazu mussten wir das wichtigste auf einem Plakat notieren. 
 
 # 2. 23.11.2021
-## 2.1. Ziele
- - Z1: Eigenes Lernportfolio auf gitlab eingerichtet und Lehrperson freigegeben. 
 
 
-## 2.2. Auswertung
+
  - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
 
 # 3. 30.11.2021
