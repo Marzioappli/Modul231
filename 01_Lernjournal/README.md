@@ -22,13 +22,14 @@ Zum Start haben wir ein Quizz über die Infos und Hausaufgaben in der gesamten K
 **Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/02_git
 
 **Fazit:** Ich fande den Tag recht gut. Dennoch hätte man den Input etwas kürzer machen können, da dieser schon recht lange gedauert hatte.
+
 # 3. 30.11.2021
 
-Heute war bereits der 3 Tag im Modul 231.
+Heute war bereits der 3 Tag im Modul 231. Wir hatten Homeoffice. Wieder haben wir dieses Quiz gemacht. Das heutige Thema waren **Passwörter**. Am Anfang haben wir über die Sicherheit gesprochen. Als ich die Grundlagen über diese Art von Authentifizierung verstanden habe, habe ich erstmals einen neuen Passwortmanager heruntergeladen. Und zwar **Dashlane**. Am Schluss durften wir noch ein bisschen Hacken. Also wir mussten versuchen die Passwörter herauszufinden. 
 
 **Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/03_passwords
 
-
+**Fazit:** Der heutige Tag,war ein bisschen komisch, da wir von zuhause aus arbeiten musste. Aber sonst war der Tag sehr informatiell und spannend.
 
 # 4. 07.12.2021
 Als aller erstes haben wir wieder ein Quiz gemacht, über den Textabschnitt, denn wir lesen mussten. Leider ist mir dieses nicht wircklich gut gelungen. 
