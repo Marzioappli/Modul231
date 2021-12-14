@@ -1,10 +1,8 @@
-# Lernjournal  <!-- omit in toc -->
+# Lernjournal  
 
-# Inhaltsverzeichnis  <!-- omit in toc -->
+# Inhaltsverzeichnis  
 - [1. 16.11.2021](#1-16112021)
 - [2. 23.11.2021](#2-23112021)
-  - [2.1. Ziele](#21-ziele)
-  - [2.2. Auswertung](#22-auswertung)
 - [3. 30.11.2021](#3-30112021)
 - [4. 7.12.2021](#4-07122021)
 - [5. 14.12.2021](#5-14122021)
@@ -12,16 +10,14 @@
 # 1. 16.11.2021
 Es war der erste Tag in dem neuen Modul 231. Am Anfang haben wir erstmals ein Überblick bekommen, um was es die nächsten Wochen gehen wird. Als wir positiv ins neue Thema eingeführt worden sind, haben wir direkt eine Übung bekommen. Und zwar mussten wir in Gruppen verschiedenene Informationen, über unterschiedliche Themen eine Präsentation halten. Dazu mussten wir das wichtigste auf einem Plakat notieren. 
 
-**Fazit**: Der erste Tag war sehr spannend. Ich konnte schon vieles mitnehmen und lernen. Dazu habe ich auch einen guten Eindruck über Herr Albecht bekommen.
+**Aufgabenbeschreibung:**https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/01_protection
+
+**Fazit:** Der erste Tag war sehr spannend. Ich konnte schon vieles mitnehmen und lernen. Dazu habe ich auch einen guten Eindruck über Herr Albecht bekommen.
 
 # 2. 23.11.2021
-
-
-
- - Z1: Erledigt Link: https://gitlab.com/ch-tbz-it/Stud/m231
+Zum Start haben wir ein Quizz über die Infos und Hausaufgaben in der gesamten Klasse gemacht. 
 
 # 3. 30.11.2021
-| Ziel | Auswertung   |
 
 
 
@@ -34,4 +30,4 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 # 5. 14.12.21
 
 
-
+https://gitlab.com/ch-tbz-it/Stud/m231
