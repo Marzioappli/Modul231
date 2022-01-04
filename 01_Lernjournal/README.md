@@ -6,6 +6,7 @@
 - [3. 30.11.2021](#3-30112021)
 - [4. 7.12.2021](#4-07122021)
 - [5. 14.12.2021](#5-14122021)
+- [6. 4.01.22](#6-40122)
 
 # 1. 16.11.2021
 
@@ -44,3 +45,6 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 # 5. 14.12.21
 Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. Danach haben wir in der Klasse noch Phantomine mit allen möglichen Begriffe gespielt.
 
+# 6 4.01.22
+Heute habe ich sehr lang am Passwortmanager gearbeitet. Da ich noch einiges verbessern musste. Dennoch haben wir am Anfang einen Input über die Verschlüsselung. Ich konnte persönlich auch viel mit den Übungen von diesem Thema profitieren. Dazu kam in der letzten Stunde noch ein Input über Hash. 
+**Fazit:** Heute war ein spannender Tag, ich konnte neues, unbekanntes lernen. 
