@@ -25,13 +25,10 @@ Ich habe mich für den Passwortmanager Dashlane entschieden. Vorher habe ich Bit
 
 
 # Entscheidung
-*Suchen Sie sich mithilfe des Internets 3 verschiedene Passwortverwaltungsprogramme aus und vergleichen Sie diese mithilfe einer Tabelle. Nehmen Sie mindestens 10 möglichst messbare Kriterien.*
-
-# Installation
-*Wie mussten Sie die/den Applikation/Service installieren/einrichten? Dokumentieren Sie die einzelnen Schritte, sodass eine Fachperson in der Lage ist ihre Schritte zu reproduzieren.*
+Bei der Suche nach Passwortmanager bin ich auf Bitwarden, Dashlane und KeePassXC gestossen. Da ich Bitwarden schon lange beutze, habe ich noch Dashlane ausprobiert. 
 
 # Einrichtung
-*Können Sie ihre Daten (Passwörter, Keyfiles, usw.) im Passwortverwaltungsprogramm strukturieren? Auf welchen Geräten haben Sie das/den Programm/Service eingerichtet? Wie synchronisieren Sie die Daten? Versuchen Sie ein möglichst vollständiges Bild ihrer Konfiguration zu vermitteln.*
+Als erstes musste ich Dashlane herunterladen. Als es fertig war, musste ich mich ertsmals anmelden, besser gesagt ein Konto erstellen. Danach konnte ich schon loslegen und meine Passwörter in Dashlane speichern und am nächsten Tag darauf zugreifen.
 
 # Quellen
-*Führen Sie hier alle Quellen auf.*
+https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/03_passwords
