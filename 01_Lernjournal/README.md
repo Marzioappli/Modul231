@@ -42,5 +42,5 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 **Fazit:** Heute war ein sehr spannender Tag. Der Film war sehr eindrücklich, was diese Content-Moderatoren für einen Beruf machen.
 
 # 5. 14.12.21
-Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. 
+Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. Danach haben wir in der Klasse noch Phantomine mit allen möglichen Begriffe gespielt.
 
