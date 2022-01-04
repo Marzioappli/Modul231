@@ -6,6 +6,7 @@
 - [3. 30.11.2021](#3-30112021)
 - [4. 7.12.2021](#4-07122021)
 - [5. 14.12.2021](#5-14122021)
+- [6. 04.01.2022](#5-04012022)
 
 # 1. 16.11.2021
 
@@ -42,5 +43,8 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 **Fazit:** Heute war ein sehr spannender Tag. Der Film war sehr eindrücklich, was diese Content-Moderatoren für einen Beruf machen.
 
 # 5. 14.12.21
-Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. 
+Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. Am Schluss haben wir dann noch ein Spiel gespielt. 
+
+# 6. 04.01.22
+
 
