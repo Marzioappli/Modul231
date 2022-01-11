@@ -6,7 +6,7 @@
   - [Inhaltsverzeichnis](#inhaltsverzeichnis)
   - [Regeln für sichere Passwörter](#regeln-für-sichere-passwörter)
   - [Vergleich mehrerer Passwortmanager](#vergleich-mehrerer-passwortmanager)
-  - [Auswahl meines eigenen Passwortmanagers](#auswahl-meineseigenen-passwortmanagers)
+  - [Auswahl meines eigenen Passwortmanagers](#auswahl-meines-eigenen-passwortmanagers)
 
 ### Regeln für sichere Passwörter
 Es gibt verschiedene Methoden, wie man ein sicheres Passwort generieren kann. Eine Methode ist zum Beispiel die Methode, bei der man sich drei zufällige Wörter überlegt und diese einfach aneinanderreiht. Wenn man sein Passwort verstärken will, kann man in den einzelnen Wörtern auch zusätzliche Zeichen einfügen oder Rechtschreibfehler einbauen.
