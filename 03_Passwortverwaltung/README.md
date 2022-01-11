@@ -37,7 +37,7 @@ Als erstes musste ich Dashlane herunterladen. Als es fertig war, musste ich mich
 # Quellen
 
 Heunterladen von Dashlane:
-https://www.dashlane.com/de/lp/search?utm_source=adwords&utm_campaign=DE_Search_Brand_German&utm_medium=22404683937&utm_term=Dashlane&gclid=Cj0KCQiA8vSOBhCkARIsAGdp6RRTNgi3apuviCGs_7_ustAqBOPdE2M15GrHqvU8Z9ScX_HfaI_iY_0aAqIIEALw_wcB
+https://www.dashlane.com
 
 Aufgaben:
 https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/03_passwords
