@@ -20,8 +20,8 @@ Es gibt verschiedene Methoden, wie man ein sicheres Passwort generieren kann. Ei
 | Automatische Sperre              |      X     | X        | X        |
 <br>
 
-Bitwarden: https://www.experte.de/passwort-manager/bitwarden
-LastPass: https://www.experte.de/passwort-manager/lastpass
+Bitwarden: https://www.experte.de/passwort-manager/bitwarden \n
+LastPass: https://www.experte.de/passwort-manager/lastpass \n
 Nordpass: https://nordpass.com
 
 ### Auswahl meines eigenen Passwortmanagers
