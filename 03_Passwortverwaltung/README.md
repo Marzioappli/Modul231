@@ -21,7 +21,7 @@ Es gibt verschiedene Methoden, wie man ein sicheres Passwort generieren kann. Ei
 <br>
 
 ### Auswahl meines eigenen Passwortmanagers
-Ich habe mich für den Passwortmanager Dashlane entschieden. Vorher habe ich Bitwarden verwendet, doch ich wollte etwas neues ausprobieren, um neuen Passwortmanager zu begegnen. Nachdem ich jetzt beide Passwortmanger getestet habe finde ich, dass beide gut sind, da sie ihren Job, den ich ertwartet habe, gemacht haben. Warum Dashlane?  Ein Grund war, dass ich auf mehreren Geräten auf Dashlane zugreifen kann, mit einem Masterpasswort. Und ein weiterer ist, dass Dashlane Open Source ist.
+Ich habe mich für den Passwortmanager Dashlane entschieden. Vorher habe ich Bitwarden verwendet, doch ich wollte etwas neues ausprobieren, um neuen Passwortmanager zu begegnen. Nachdem ich jetzt beide Passwortmanger getestet habe finde ich, dass beide gut sind, da sie ihren Job, den ich ertwartet habe, gemacht haben. Warum Dashlane?  Ein Grund war, dass ich auf mehreren Geräten auf Dashlane zugreifen kann, mit einem Masterpasswort. 
 
 
 # Entscheidung
