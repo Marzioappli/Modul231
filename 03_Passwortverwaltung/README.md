@@ -23,9 +23,10 @@ Es gibt verschiedene Methoden, wie man ein sicheres Passwort generieren kann. Ei
 | Automatische Sperre              |      X     | X        | X        |
 <br>
 
-Bitwarden: https://www.experte.de/passwort-manager/bitwarden <br>
-LastPass: https://www.experte.de/passwort-manager/lastpass  <br>
-Nordpass: https://nordpass.com
+Bitwarden Infos: https://www.experte.de/passwort-manager/bitwarden <br>
+LastPass Infos: https://www.experte.de/passwort-manager/lastpass  <br>
+Nordpass Infos: https://nordpass.com/de/
+
 
 ### Auswahl meines eigenen Passwortmanagers
 Ich habe mich für den Passwortmanager Dashlane entschieden. Vorher habe ich Bitwarden verwendet, doch ich wollte etwas neues ausprobieren, um neuen Passwortmanager zu begegnen. Nachdem ich jetzt beide Passwortmanger getestet habe finde ich, dass beide gut sind, da sie ihren Job, den ich ertwartet habe, gemacht haben. Warum Dashlane?  Ein Grund war, dass ich auf mehreren Geräten auf Dashlane zugreifen kann, mit einem Masterpasswort. 
@@ -41,6 +42,12 @@ Als erstes musste ich Dashlane herunterladen. Als es fertig war, musste ich mich
 
 Heunterladen von Dashlane:
 https://www.dashlane.com
+
+Nordpass: https://nordpass.com
+
+Bitwarden: https://bitwarden.com
+
+LastPass: https://www.lastpass.com/
 
 Aufgaben:
 https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/03_passwords
