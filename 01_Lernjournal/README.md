@@ -7,6 +7,7 @@
 - [4. 7.12.2021](#4-07122021)
 - [5. 14.12.2021](#5-141221)
 - [6. 4.01.22](#6-40122)
+- [7. 11.01.22](#7-110122)
 
 # 1. 16.11.2021
 
@@ -15,6 +16,7 @@ Es war der erste Tag in dem neuen Modul 231. Am Anfang haben wir erstmals ein Ü
 **Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/01_protection
 
 **Fazit:** Der erste Tag war sehr spannend. Ich konnte schon vieles mitnehmen und lernen. Dazu habe ich auch einen guten Eindruck über Herr Albecht bekommen.
+**Ziele:** Meine Ziele für dieses Modul, ist es gut aufzupassen und viel neues zu lernen. Natürlich auch Spass am Unterricht zu haben.
 
 # 2. 23.11.2021
 
@@ -23,6 +25,7 @@ Zum Start haben wir ein Quizz über die Infos und Hausaufgaben in der gesamten K
 **Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/02_git
 
 **Fazit:** Ich fande den Tag recht gut. Dennoch hätte man den Input etwas kürzer machen können, da dieser schon recht lange gedauert hatte.
+**Ziel:** 
 
 # 3. 30.11.2021
 
@@ -48,3 +51,8 @@ Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der
 # 6 4.01.22
 Heute habe ich sehr lang am Passwortmanager gearbeitet. Da ich noch einiges verbessern musste. Dennoch haben wir am Anfang einen Input über die Verschlüsselung. Ich konnte persönlich auch viel mit den Übungen von diesem Thema profitieren. Dazu kam in der letzten Stunde noch ein Input über Hash. 
 **Fazit:** Heute war ein spannender Tag, ich konnte neues, unbekanntes lernen. 
+
+# 11.01.22
+Heute habe ich hauptsächlich mein Portfolio verbessert oder gar noch neue Themen hinzugefügt. Dann haben wir am Anfang vom Tag noch ein Quiz, zu dem Input von letzter Woche gemacht, welcher mir leider nicht besonders gut gelungen ist. Dennoch habe ich heute sehr viel gemacht. Am Schluss habe ich noch den Text über den Input von heute nochmals genau durchgelesen. Ich wollte noch mit der Aufgabe starten, dennoch hat mir die Zeit leider nicht gereicht.
+**Fazit:** Heute war ich sehr motiviert zu arbeiten, da ich in meinem Portfolio eine gute Note haben möchte. Deshalb war mir nie langweillig, weil ich immer etwas gemacht habe. 
+**Ziele:** Meine Ziele sind es mein Portfolio gut zu führen und vergessenens nachzutragen.
