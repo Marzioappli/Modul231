@@ -49,21 +49,25 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 **Ziele:** Meine Ziele sind es, weiterhin 
 
 # 5. 14.12.21
-Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. Danach haben wir in der Klasse noch Phantomine mit allen möglichen Begriffe gespielt.
+Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. Danach haben wir in der Klasse noch Phantomine mit allen möglichen Begriffe gespielt. <br>
+**Aufgabenbeschreibung:** Test
 **Fazit:** Natürlich hoffe ich, dass ich eine gute Note bekomme. Der Tag war im allgemeinen recht gut. <br>
 **Ziele:** Mein Ziel ist es weiterhin gut zu arbeiten und meiner Meinung nach lief die Prüfung nicht ganz verkehrt, dennoch würde ich nächstes Mal mehr lernen. 
 
 # 6. 4.01.22
-Heute habe ich sehr lang am Passwortmanager gearbeitet. Da ich noch einiges verbessern musste. Dennoch haben wir am Anfang einen Input über die Verschlüsselung. Ich konnte persönlich auch viel mit den Übungen von diesem Thema profitieren. Dazu kam in der letzten Stunde noch ein Input über Hash. 
+Heute habe ich sehr lang am Passwortmanager gearbeitet. Da ich noch einiges verbessern musste. Dennoch haben wir am Anfang einen Input über die Verschlüsselung. Ich konnte persönlich auch viel mit den Übungen von diesem Thema profitieren. Dazu kam in der letzten Stunde noch ein Input über Hash. <br>
+**Aufgabenbeschreibung:** https://github.com/Marzioappli/Modul231/edit/master/01_Lernjournal
 **Fazit:** Heute war ein spannender Tag, ich konnte neues, unbekanntes lernen. <br>
 **Ziele:** Ziel für meine nächste Arbeitswoche: Weiterhin so konzentriert arbeiten und vieles mitnehmen. 
 
 # 7. 11.01.22
 Heute habe ich hauptsächlich mein Portfolio verbessert oder gar noch neue Themen hinzugefügt. Dann haben wir am Anfang vom Tag noch ein Quiz, zu dem Input von letzter Woche gemacht, welcher mir leider nicht besonders gut gelungen ist. Dennoch habe ich heute sehr viel gemacht. Am Schluss habe ich noch den Text über den Input von heute nochmals genau durchgelesen. Ich wollte noch mit der Aufgabe starten, dennoch hat mir die Zeit leider nicht gereicht. <br>
+**Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/04_filing_system
 **Fazit:** Heute war ich sehr motiviert zu arbeiten, da ich in meinem Portfolio eine gute Note haben möchte. Deshalb war mir nie langweillig, weil ich immer etwas gemacht habe. <br>
 **Ziele:** Meine Ziele sind es mein Portfolio gut zu führen und vergessenens nachzutragen.
 
 # 8. 18.01.22
 Das heutige Thema war Backup. Am Anfang, gab es nicht, wie gewohnt ein Quiz, sondern wir sind direkt mit der Teorie reingestartet. Nach der Theorie über Backup haben wir ein sehr langes Dokument gelesen. In der zweiten Lektion war der nächste Auftrag an der Reihe. Und zwar: Präsentation über ein Thema (bei mir Hot Backup vs Cold Backup). In den letzten zwei Lektionen ging es darum sein Portfolio zu vollständig zu verbessern und möglichst zu beenden. <br>
+**Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/05_backup
 **Fazit:** Heute war ein spannender Tag mit Abwechslung, durch die verschiedenen Präsentationen. <br>
 **Ziele:** Mein Ziel ist es für nächste Woche das Portfolio ganz verbesser und Abgabebereit zu haben.
