@@ -5,4 +5,4 @@ Momentan speichere ich alle Dateien auf OneDrive. Ich weiss, dass das nicht die 
 ![Mein Backup] (Untitled Diagram.drawio.png)
 
 
-![Alt-Text](/Pfad/zum/Untitled Diagram.drawio.png)
+![Alt-Text](/Pfad/zum/Diagram.drawio.png)
