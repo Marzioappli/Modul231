@@ -50,7 +50,7 @@ von einem Film gesehen, über die Contant Moderations. Wir konnten sehr vieles s
 
 # 5. 14.12.21
 Am letzten Schultag vor dem Jahr 2022 haben wir den ersten Test geschrieben. Der nach meinem Gefühl nicht schlecht gelaufen ist. Danach haben wir den Auftrag bekommen dieses Lernjournal zu verbessern, was ich hier und jetzt am machen bin. Danach haben wir in der Klasse noch Phantomine mit allen möglichen Begriffe gespielt. <br>
-**Aufgabenbeschreibung:** Test
+**Aufgabenbeschreibung:** Test <br>
 **Fazit:** Natürlich hoffe ich, dass ich eine gute Note bekomme. Der Tag war im allgemeinen recht gut. <br>
 **Ziele:** Mein Ziel ist es weiterhin gut zu arbeiten und meiner Meinung nach lief die Prüfung nicht ganz verkehrt, dennoch würde ich nächstes Mal mehr lernen. 
 
