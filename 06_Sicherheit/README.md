@@ -92,5 +92,4 @@ Indem ich Cookies abgelehnt habe und ich die Trackingdienste deaktiviert habe
 
 
 
-# 2. Individuelle Quelle
-*Kriterium 12 der LB2*
+
