@@ -3,6 +3,14 @@
 # Inhaltsverzeichnis <!-- omit in toc -->
 - [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
 - [2. Individuelle Quelle](#2-individuelle-quelle)
+- 
+  - [Webtracking verhindern](#webtracking-verhindern)
+
+    - [Organisatorische Massnahmen treffen](#organisatorische-massnahmen-treffen)
+
+    - [Browser-Einstellungen überprüfen](#browser-einstellungen-überprüfen)
+
+    - [Zusatzsoftware für den Browser installieren](#zusatzsoftware-für-den-browser-installieren)
 
 # 1. Checkliste des Datenschutzbeauftragten
 ## Webtracking verhindern
@@ -65,13 +73,6 @@ Indem ich Cookies abgelehnt habe und ich die Trackingdienste deaktiviert habe
 
 - [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
 
-  - [Webtracking verhindern](#webtracking-verhindern)
-
-    - [Organisatorische Massnahmen treffen](#organisatorische-massnahmen-treffen)
-
-    - [Browser-Einstellungen überprüfen](#browser-einstellungen-überprüfen)
-
-    - [Zusatzsoftware für den Browser installieren](#zusatzsoftware-für-den-browser-installieren)
 
 - [2. Individuelle Quelle](#2-individuelle-quelle)
 
