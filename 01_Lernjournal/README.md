@@ -71,3 +71,10 @@ Das heutige Thema war Backup. Am Anfang, gab es nicht, wie gewohnt ein Quiz, son
 **Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/05_backup
 **Fazit:** Heute war ein spannender Tag mit Abwechslung, durch die verschiedenen Präsentationen. <br>
 **Ziele:** Mein Ziel ist es für nächste Woche das Portfolio ganz verbesser und Abgabebereit zu haben.
+
+
+
+
+
+
+**Für einen allgemeinen Modulrückblick:** https://github.com/Marzioappli/Modul231/blob/master/Allgemeiner%20Modulr%C3%BCckblick
