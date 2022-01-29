@@ -9,6 +9,7 @@
 - [6. 4.01.22](#6-40122)
 - [7. 11.01.22](#7-110122)
 - [8. 18.01.22](#8-180122)
+- [9. 25.01.22](#9-250122)
 
 # 1. 16.11.2021
 
@@ -74,7 +75,10 @@ Das heutige Thema war Backup. Am Anfang, gab es nicht, wie gewohnt ein Quiz, son
 
 
 
-
+# 9. 25.01.22
+Heute war der erste Tag, an dem die Portfolios bewertet werden. Ich bin heute noch nicht dran, weshalb ich nicht mein Portfolio heute verbessert habe und auch neues hinzugefügt habe. Ich konnte sehr vieles noch verbesser, was ich vorher nicht gesehen habe. Es hat echt Spass gemacht beim verbesser, da mein Gefühl immer besser geworden ist. <br>
+**Fazit:** Heute war ein produktiver Tag, ich konnte mein Portfolio auf Trab bringen.
+**Ziel:** Mein Ziel für die nächste Woche ist es, eine gute Note zu bekommen, da ich mir mit diesem Portfolio echt Mühe gegeben habe.
 
 
 **Für einen allgemeinen Modulrückblick:** https://github.com/Marzioappli/Modul231/blob/master/Allgemeiner%20Modulr%C3%BCckblick
