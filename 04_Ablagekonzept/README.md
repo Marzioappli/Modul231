@@ -12,4 +12,4 @@ In dieser Tabelle sieht man einige Informationen über meine Datenablage.
 
 
 # Ergänzung 
-Meine Schuldateien etc.. speichere ich ebenfalls in OneDrive auf meinem Laptop und kopiere sie zuhause auf ein Harddisk. 
+Meine Schuldateien etc.. speichere ich ebenfalls in OneDrive auf meinem Laptop und kopiere sie zuhause auf ein Harddisk. Ich habe für jedes einzelnes Fach einen eigenen Ordner erstellt, in welchem dann die entsprechenden Dateien gespeichert sind z.B. ein Word Dokument etc.
