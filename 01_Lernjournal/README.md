@@ -9,6 +9,7 @@
 - [6. 4.01.22](#6-40122)
 - [7. 11.01.22](#7-110122)
 - [8. 18.01.22](#8-180122)
+- [9. 25.01.22](#9-250122)
 
 # 1. 16.11.2021
 
@@ -71,3 +72,9 @@ Das heutige Thema war Backup. Am Anfang, gab es nicht, wie gewohnt ein Quiz, son
 **Aufgabenbeschreibung:** https://gitlab.com/ch-tbz-it/Stud/m231/-/tree/master/05_backup
 **Fazit:** Heute war ein spannender Tag mit Abwechslung, durch die verschiedenen Präsentationen. <br>
 **Ziele:** Mein Ziel ist es für nächste Woche das Portfolio ganz verbesser und Abgabebereit zu haben.
+
+# 9. 25.01.22
+Heute ging es in allen Lektionen darum, die Portfolios , der ersten zu bewerten. Ich bin diese Woche noch nicht dran, weshalb ich meine Zeit in mein Portfolio gesteckt habe. Dass heisst, heute habe ich mein Portfolio verbessert und auch neues hinzugefügt.  <br>
+**Aufgabenbeschreibung:** Gab es nicht, nur Hinweise oder Tipps von Herr Albrecht. <br>
+**Fazit:** Ich konnte noch einiges an meinem Portfolio verbesser, was mir vorher nicht aufgefallen ist. <br>
+**Ziele:** Mein Ziel ist es für nächste Woche, dass ich eine gute Note erzielen kann. 
