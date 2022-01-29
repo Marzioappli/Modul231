@@ -17,17 +17,41 @@
 
 ### Organisatorische Massnahmen treffen
 
+Unterschiedliche Anbieter nehmen.
+
+Abmeldung nach der benutzung von den Websites oder Apps.
+
+Privacy Suchmaschinen benutzen. Z.B. Duck Duck Go.
+
 Wenige Informationen bekannt geben.
 
-Unterschiedliche Anbieter/Dienste
 
-Abmeldung nach benutzung
 
-Privacy Suchmaschinen benutzen
+### Zusatzsoftware für den Browser installieren
+
+ Mann kann verschiedene Trackingdienste blockieren.
+
+
+unerwünschte Skripts blockieren 
+
+
+
+01 Habe ich das bereits erfüllt?
+
+
+
+Ja einen Teil habe ich schon erfüllt
+
+
+
+02 Wie habe ich diese Punkte erfüllt?
+
+Indem ich wie gesagt die Trackingdienste blockiert/abgeschallten habe. Dazu hab ich ebenfalls alle Cookies auf Websiten abgehlehnt.
+
 
 ### Browser-Einstellungen überprüfen
 
-Do not Track Option einstellen
+"Do not Track" Option einschalten
 
 
 
@@ -43,29 +67,6 @@ Die automatische Löschung von Cache und
 
 Verlauf einstellen
 
-
-
-### Zusatzsoftware für den Browser installieren
-
-Ghostery Trackingdienste blockieren
-
-NoScript unerwünschte Skripts blockieren auf Firefox
-
-
-
-01 Habe ich das bereits erfüllt?
-
-
-
-Ja einen Teil habe ich schon erfüllt
-
-
-
-02 Wie habe ich diese Punkte erfüllt?
-
-
-
-Indem ich Cookies abgelehnt habe und ich die Trackingdienste deaktiviert habe
 
 
 
