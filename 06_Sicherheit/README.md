@@ -5,29 +5,6 @@
 - [2. Individuelle Quelle](#2-individuelle-quelle)
 
 # 1. Checkliste des Datenschutzbeauftragten
-*Kriterium 14 der LB2*
-# Sicherheit <!-- omit in toc -->
-
-
-
-# Inhaltsverzeichnis <!-- omit in toc -->
-
-- [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
-
-  - [Webtracking verhindern](#webtracking-verhindern)
-
-    - [Organisatorische Massnahmen treffen](#organisatorische-massnahmen-treffen)
-
-    - [Browser-Einstellungen überprüfen](#browser-einstellungen-überprüfen)
-
-    - [Zusatzsoftware für den Browser installieren](#zusatzsoftware-für-den-browser-installieren)
-
-- [2. Individuelle Quelle](#2-individuelle-quelle)
-
-
-
-# 1. Checkliste des Datenschutzbeauftragten
-
 ## Webtracking verhindern
 
 ### Organisatorische Massnahmen treffen
@@ -81,6 +58,26 @@ Ja einen Teil habe ich schon erfüllt
 
 
 Indem ich Cookies abgelehnt habe und ich die Trackingdienste deaktiviert habe
+
+
+
+# Inhaltsverzeichnis <!-- omit in toc -->
+
+- [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
+
+  - [Webtracking verhindern](#webtracking-verhindern)
+
+    - [Organisatorische Massnahmen treffen](#organisatorische-massnahmen-treffen)
+
+    - [Browser-Einstellungen überprüfen](#browser-einstellungen-überprüfen)
+
+    - [Zusatzsoftware für den Browser installieren](#zusatzsoftware-für-den-browser-installieren)
+
+- [2. Individuelle Quelle](#2-individuelle-quelle)
+
+
+
+# 2. Checkliste des Datenschutzbeauftragten
 
 
 
