@@ -2,7 +2,7 @@
 
 # Inhaltsverzeichnis <!-- omit in toc -->
 - [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
-- [2. Individuelle Quelle](#2-individuelle-quelle)
+- [3. Individuelle Quelle](#3-individuelle-quelle)
 - 
   - [Webtracking verhindern](#webtracking-verhindern)
 
@@ -11,6 +11,7 @@
     - [Browser-Einstellungen überprüfen](#browser-einstellungen-überprüfen)
 
     - [Zusatzsoftware für den Browser installieren](#zusatzsoftware-für-den-browser-installieren)
+    - [Wie habe ich diese Punkte erfüllt?](#wie-habe-ich-diese-Punkte-erfüllt-?)
 
 # 1. Checkliste des Datenschutzbeauftragten
 ## Webtracking verhindern
@@ -19,7 +20,7 @@
 
 Unterschiedliche Anbieter nehmen.
 
-Abmeldung nach der benutzung von den Websites oder Apps.
+Abmeldung nach der Benutzung von den Websites oder Apps.
 
 Privacy Suchmaschinen benutzen. Z.B. Duck Duck Go.
 
@@ -31,42 +32,24 @@ Wenige Informationen bekannt geben.
 
  Mann kann verschiedene Trackingdienste blockieren.
 
-
 unerwünschte Skripts blockieren 
-
-
 
 01 Habe ich das bereits erfüllt?
 
-
-
 Ja einen Teil habe ich schon erfüllt
 
-
-
-02 Wie habe ich diese Punkte erfüllt?
+## Wie habe ich diese Punkte erfüllt?
 
 Indem ich wie gesagt die Trackingdienste blockiert/abgeschallten habe. Dazu hab ich ebenfalls alle Cookies auf Websiten abgehlehnt.
 
 
 ### Browser-Einstellungen überprüfen
 
-"Do not Track" Option einschalten
+Die Option automatisches Löschen aktivieren.
 
+Die Option "Do not Track" immer einschalten.
 
-
-Cookies von Drittanbieter nicht aktzeptieren
-
-
-
-Die Option automatisches Löschen aktivieren
-
-
-
-Die automatische Löschung von Cache und
-
-Verlauf einstellen
-
+Cookies nicht aktzeptieren
 
 
 
@@ -112,7 +95,7 @@ Verlauf einstellen
 
 02 Momentan habe ich ein Geschäfts-, Schul- und und Privatemail. 
 
-# 2. Individuelle Quelle
+# 3. Individuelle Quelle
 
 (https://www.datenschutz.ch/meine-daten-schuetzen)
 
