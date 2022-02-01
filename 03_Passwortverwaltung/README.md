@@ -33,7 +33,7 @@ Ich habe mich für den Passwortmanager Dashlane entschieden. Vorher habe ich Bit
 
 
 # Entscheidung
-Bei der Suche nach Passwortmanager bin ich auf Bitwarden, Dashlane und KeePassXC gestossen. Da ich Bitwarden schon lange beutze, habe ich noch Dashlane ausprobiert. Da es für mich vertrauenswürdiger Aussah und ich auch mehr positives über Dashlane gelesen habe, als über KeePassXC.
+Bei der Suche nach Passwortmanager bin ich auf Bitwarden, Dashlane und KeePassXC gestossen. Da ich Bitwarden schon lange beutze, habe ich noch Dashlane ausprobiert. Da es für mich vertrauenswürdiger Aussah und ich auch mehr positives über Dashlane gelesen habe, als über KeePassXC. Was an Dashlane auch noch ganz cool ist, ist das man sich ein random sicheres Passwort machen lassen kann, welche man dann auch benutzen kann.
 
 # Einrichtung
 Als erstes musste ich Dashlane herunterladen. Als es fertig war, musste ich mich ertsmals anmelden, besser gesagt ein Konto erstellen. Danach konnte ich schon loslegen und meine Passwörter in Dashlane speichern und am nächsten Tag darauf zugreifen.
