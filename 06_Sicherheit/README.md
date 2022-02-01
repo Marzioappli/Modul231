@@ -82,7 +82,26 @@ Verlauf einstellen
 # 2. Checkliste des Datenschutzbeauftragten
 
 
+2. Checkliste des Datenschutzbeauftragten
+E-Mail-Sicherheit
+Verhalten anpassen
+-Sparsam mit dem weitergeben der Adresse
 
+-Verschiedene Adressen für verschiedene Zwecke(Alltags Mail, Berufs Mail, Zeitschriften Mail)
+
+-Niemals Links oder Anhänge öffnen wenn man den Absender nicht erkennt
+
+Technische Sicherheitsmassnahmen treffen
+-Die benutzten Systeme(Betriebsystem, E-Mail Client) auf dem laufenden halten(Updaten)
+
+-Spamfilter benutzten
+
+-Virenschutz einsetzten
+
+Was habe ich schon gemacht?
+01 Habe ich das bereits erfüllt? Ich habe zwei Punkte schon erfüllt.
+
+02 Wie habe ich diese Punkte erfüllt? Ich habe verschiedene Adressen erstellt und meine Private und Richtige Adresse nur wenigen weitergegeben.
 
 # 2. Individuelle Quelle
 
