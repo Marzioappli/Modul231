@@ -7,6 +7,7 @@ Wir wurden als dreier Team, zum Thema Whatsapp eingeteillt. Danch haben wir die 
 as eigentliche Backup von WhatsApp wird in Google Drive gespeichert. Wenn wir also unser Telefon wechseln oder zurücksetzen, erkennt WhatsApp automatisch unsere Daten, nachdem wir uns in unserem Google-Konto angemeldet haben, und stellt sie wieder her. (Gilt nur für Android).
 # Verwendung von Personendaten
 WhatsApp erfasst sämtliche Daten, die Nutzer angeben. Darunter fallen der Name, Geburtstag, Telefonnummer, Status und Profilbild. Die Facebook-Tochter speichert grundsätzlich keine Nachrichten auf den Servern
+
 # Quellen
 
 Whatsapp: https://www.wired.com/story/whatsapp-privacy-policy-facebook-data-sharing/ <br>
