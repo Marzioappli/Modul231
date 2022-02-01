@@ -77,6 +77,12 @@ Verlauf einstellen
 
 - [2. Individuelle Quelle](#2-individuelle-quelle)
 
+  - [Verhalten anpassen](#verhalten-anpassen)
+
+    - [Technische Sicherheitsmassnahmen treffen](#technische-sicherheitsmassnahmen-treffen)
+
+    - [Das habe ich schon gemacht](#das-habe-ich-schon-gemacht)
+
 
 
 # 2. Checkliste des Datenschutzbeauftragten
@@ -101,7 +107,7 @@ Verlauf einstellen
 
 -Spamfilter benutzten
 
-# Was habe ich schon gemacht?
+# Das habe ich schon gemacht
 01 Habe ich das bereits erfüllt? Ich habe meine gesetzten Ziele schon gemacht.
 
 02 Momentan habe ich ein Geschäfts-, Schul- und und Privatemail. 
